@@ -1,0 +1,90 @@
+[
+  {
+    "service": "Limpieza del hogar",
+    "provider": "Brillo Express",
+    "rating": 4.8,
+    "review_count": 215,
+    "price": 32.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora",
+    "link": "https://maps.google.com/?cid=1234567890",
+    "notes": "Incluye productos ecológicos"
+  },
+  {
+    "service": "Limpieza del hogar",
+    "provider": "Eco Hogar",
+    "rating": 4.4,
+    "review_count": 98,
+    "price": 25.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora",
+    "link": "https://maps.google.com/?cid=2345678901"
+  },
+  {
+    "service": "Limpieza del hogar",
+    "provider": "Limpio Ya",
+    "rating": 4.6,
+    "review_count": 150,
+    "price": 29.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora"
+  },
+  {
+    "service": "Mudanzas",
+    "provider": "Mudanzas Rápidas",
+    "rating": 4.7,
+    "review_count": 320,
+    "price": 250.0,
+    "currency": "EUR",
+    "pricing_unit": "por servicio",
+    "notes": "Incluye embalaje básico"
+  },
+  {
+    "service": "Mudanzas",
+    "provider": "Transportes Seguros",
+    "rating": 4.5,
+    "review_count": 210,
+    "price": 220.0,
+    "currency": "EUR",
+    "pricing_unit": "por servicio",
+    "link": "https://maps.google.com/?cid=3456789012"
+  },
+  {
+    "service": "Mudanzas",
+    "provider": "Mudanzas Económicas",
+    "rating": 4.2,
+    "review_count": 145,
+    "price": 180.0,
+    "currency": "EUR",
+    "pricing_unit": "por servicio"
+  },
+  {
+    "service": "Fontanería",
+    "provider": "FontaPlus",
+    "rating": 4.9,
+    "review_count": 410,
+    "price": 60.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora",
+    "link": "https://maps.google.com/?cid=4567890123"
+  },
+  {
+    "service": "Fontanería",
+    "provider": "Urgencias 24h",
+    "rating": 4.6,
+    "review_count": 350,
+    "price": 75.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora"
+  },
+  {
+    "service": "Fontanería",
+    "provider": "AquaFix",
+    "rating": 4.3,
+    "review_count": 120,
+    "price": 48.0,
+    "currency": "EUR",
+    "pricing_unit": "por hora",
+    "notes": "Sin recargo por desplazamiento"
+  }
+]
